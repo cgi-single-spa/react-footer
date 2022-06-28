@@ -8,6 +8,7 @@
   color: black;
   display: flex;
   flex-direction: row nowrap;
+  padding: 0.5em;
 }
 .footer img {
   height: 50px;
@@ -15,6 +16,8 @@
 }
 .footer p {
   flex: 1;
+  margin: 0;
+  font-size: large;
   align-self: center;
   text-align: center;
 }
